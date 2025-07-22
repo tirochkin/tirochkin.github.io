@@ -1,0 +1,4 @@
+include:
+  - "_nuxt/*.js"
+  - "_nuxt/*.css"
+  - "_*/*.css"
